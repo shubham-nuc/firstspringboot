@@ -21,9 +21,9 @@ public class UserDataServiceImpl implements IUserDataService {
 		
 		User user2=new User();
 		user2.setId(2);
-		user2.setName("Kunal");
+		user2.setName("Atul");
 		user2.setAge(32);
-		user2.setCity("Amritsar");
+		user2.setCity("Kakra");
 		
 		users.add(user1);
 		users.add(user2);
